@@ -1,7 +1,7 @@
 const CalendarApp = () => {
   return <div className="calendar-app">
     <div className="calender">
-        <h1 className="heading"></h1>
+        <h1 className="heading">CALENDAR</h1>
         <div className="navigate-date">
             <h2 className="month">Julho de</h2>
             <h2 className="year">2025</h2>
