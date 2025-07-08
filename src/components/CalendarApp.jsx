@@ -46,7 +46,7 @@ const CalendarApp = () => {
             </div>
             <div className="event">
                 <div className="event-date-wrapper">
-                    <div className="event-date">15 de Julho de 2024</div>
+                    <div className="event-date">15 de Julho, 2024</div>
                     <div className="event-time">10:00</div>
                 </div>
                 <div className="event-text">Reunião com Luis</div>
